@@ -8,6 +8,7 @@
 #include <fstream>
 #include "../327_proj3_test/includes/FileIO.h"
 #include "../327_proj3_test/includes/constants.h"
+#include <string>
 
 using namespace std;
 
