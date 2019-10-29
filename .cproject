@@ -32,7 +32,6 @@
 								<option id="gnu.cpp.compiler.option.include.paths.1501245371" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/327_proj3_test}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/327_proj3_stringparser}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/327_proj3_fileIO}&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.424335655" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
 							</tool>
